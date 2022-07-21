@@ -1,0 +1,2 @@
+# ediane tech
+ PRIMEIRO REPOSITORIO DO GIT/GITHUB
